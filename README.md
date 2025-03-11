@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anjumdaudi03
 - 👀 I’m Salesforce professional
-- 🌱 I’m currently learning development
+- 🌱 I’m a development enthusiast
 - 💞️ I’m looking to collaborate on github, linkedin
 - 📫 You can reach me through linkedin
      //https://www.linkedin.com/in/anjum-daudi/salesforce
